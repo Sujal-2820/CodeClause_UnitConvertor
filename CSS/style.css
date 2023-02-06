@@ -1,0 +1,42 @@
+body{
+    background-image: linear-gradient(to right, #feecb0, #fed09c);
+}
+
+.Main-Container{
+  margin: 150px auto;
+  width: 40%;
+  border: 3px solid green;
+  border-radius: 20px;
+  padding: 10px;
+  background-color: rgb(90, 188, 195);
+  opacity: 0.9;
+}
+
+.heading{
+    border: 3px solid blue;
+    width: 50%;
+    padding-top: 2px;
+    margin: 15px auto 25px;
+    height: 7vh;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+    background-color: yellow;
+}
+
+label {
+    display: inline-block;
+    width: 200px;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#op-value{
+    border: 3px solid red;
+    border-radius: 10px;
+    text-align: center;
+    width: 50%;
+    margin: 20px 20px 20px 150px;
+    height: 7vh;
+}
